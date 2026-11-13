@@ -1,6 +1,6 @@
 [project]
 name = "solar-declination-calc-lib"
-version = "0.1.2"
+version = "0.1.3"
 description = "I(t) = I0  cos(θ)"
 requires-python = ">=3.10"
 dependencies = []
